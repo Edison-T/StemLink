@@ -12,7 +12,7 @@ def get_news_by_interest(interest, num):
     # source, sortBy and apiKey
     query_params = {
       "sortBy": "top",
-      "apiKey": "803faabb3328410ebf50846c453353e2",
+      "apiKey": "",
       "q": interest,
       "language":"en"
     }
